@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 🧑‍💻 About Me
 - 🎓 **Education:** PhD Student in Epidemiology & Biostatistics (University of Kentucky)  
 - 🔬 **Research:** Cytokine profiling with multivariate methods (PLS‐DA, Random Forest, XGBoost).
-- 🔧 **R Package:** Creator of [**CytoProfile**](https://cran.r-project.org/package=CytoProfile), R package for cytokine data analysis & CytokineProfile Shiny app for interactive web-based cytokine data analysis.  
+- 🔧 **R Package:** Co-creator and maintainer of [**CytoProfile**](https://cran.r-project.org/package=CytoProfile), R package for cytokine data analysis & CytokineProfile Shiny app for interactive web-based cytokine data analysis.  
 
 ---
 
