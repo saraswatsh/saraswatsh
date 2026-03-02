@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 | Project / Publication                         | Link                                                   | Notes                                      |
 |-----------------------------------------------|--------------------------------------------------------|--------------------------------------------|
-| **CytoProfile R package**                  | https://cran.r-project.org/package=CytoProfile         | Available at CRAN v0.2.2                   |
+| **CytoProfile R package**                  | https://cran.r-project.org/package=CytoProfile         | Available at CRAN v0.2.4                   |
 | **CytokineProfile Shiny App**                 | https://github.com/saraswatsh/CytokineProfileShinyApp  | Development version available at GitHub    | 
 | **CGMissingDataR**                 | https://cran.r-project.org/package=CGMissingDataR  | Available at CRAN v0.0.1    | 
 | **A ubiquitous organophosphate flame retardant disrupts energy and glucose homeostasis in mice**     | https://doi.org/10.1016/j.ecoenv.2026.119827 | Published in Ecotoxicology and Environmental Safety |
