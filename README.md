@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 🧑‍💻 About Me
 - 🎓 **Education:** PhD Student in Epidemiology & Biostatistics (University of Kentucky)  
 - 🔬 **Research:** Cytokine profiling with multivariate methods (PLS‐DA, Random Forest, XGBoost).
-- 🔧 **R Package:** Co-creator and maintainer of [**CytoProfile**](https://cran.r-project.org/package=CytoProfile), R package for cytokine data analysis & CytokineProfile Shiny app for interactive web-based cytokine data analysis.  
+- 🔧 **R Package:** Co-creator and maintainer of [**CytoProfile**](https://cran.r-project.org/package=CytoProfile), R package for cytokine data analysis & [**CytokineProfile**](https://shiny.cytokineprofile.org ) Shiny app for interactive web-based cytokine data analysis.  
 
 ---
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 | Project / Publication                         | Link                                                   | Notes                                      |
 |-----------------------------------------------|--------------------------------------------------------|--------------------------------------------|
 | **CytoProfile R package**                  | https://cran.r-project.org/package=CytoProfile         | Available at CRAN v0.2.4                   |
-| **CytokineProfile Shiny App**                 | https://shiny.cytokineprofile.org  | v0.0.0.9000   | 
+| **CytokineProfile Shiny App**                 | https://shiny.cytokineprofile.org  | v0.0.1  | 
 | **CGMissingDataR**                 | https://cran.r-project.org/package=CGMissingDataR  | Available at CRAN v0.0.1    | 
 | **CytokineProfile: An Integrated Web Tool Dedicated to Cytokine Profiling Analysis** | https://doi.org/10.34133/csbj.0079 | Published in Computational and Structural Biotechnology|
 | **A ubiquitous organophosphate flame retardant disrupts energy and glucose homeostasis in mice**     | https://doi.org/10.1016/j.ecoenv.2026.119827 | Published in Ecotoxicology and Environmental Safety |
